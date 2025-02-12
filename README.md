@@ -1,1 +1,1 @@
-# FDD3424_Project
+# Simple Image Classification using CNN
